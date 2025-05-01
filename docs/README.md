@@ -14,5 +14,8 @@ Továbbá tartalmaz egy megszakítás jelet a PIA felé, az R510 ellenálláson 
 Az itt megadott alkatrészértékek néhol eltérnek az eredetitől. Például a magnó betöltése egy feszülségosztóval indít, ami az eredeti kapcsolási rajz szerint 10k/270 értékekkel készült,
 de a módosítás már 10k/3k értékekkel van jelezve. Ez utóbbi tűnik életszerűenk.
 
-##mini
+## mini almappa
 Az általam készített mini verzióról képek.
+
+## hiba almappa
+Megpróbáltam elkapni a hibát. Az 5-ös 4-esreváltását nem sikerült lefotóznom, de a szóköz !-re változását igen. A karakterkészletben a ! jel kódja 33, a szóközé 32.
