@@ -1,11 +1,11 @@
 # Esselte 100
-Az általam eddig fellelt fontosabb dokumentációk a docs mappában
+Documentations, utilities and programs for Esselte 100 school computer
 
-## vz2wav
-Convert vz file to wav or cas file.
-The wav file is tricky. After the filename there are 2 bit length low value pause!
+## docs
+Documentations
 
-With the -c option, it generates a cas file insted of wav.
+## e100utils
+Utilities for Esselte 100: bas2wav, bin2bas, wav2bas and lzss and bpe compressor.
 
-Use then vz2wav -h for more informations.
-
+## programs
+Programs for Esselte 100. First game is Sokoban!
