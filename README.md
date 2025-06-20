@@ -9,3 +9,9 @@ Utilities for Esselte 100: bas2wav, bin2bas, wav2bas and lzss and bpe compressor
 
 ## programs
 Programs for Esselte 100. First game is Sokoban!
+
+## remake
+My Esselte 100 remake photos and KiCad files
+
+## KiCad
+KiCad files for my board and accessories
